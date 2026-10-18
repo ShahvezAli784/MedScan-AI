@@ -101,16 +101,3 @@ Match threshold 80%; "expiring soon" = 60 days; expiry parsed to the last day of
 ## Future work
 Larger, pharmacist-reviewed knowledge base; barcode/DataMatrix scanning; Urdu OCR; reminders by email or SMS; user-added medicines; multi-profile family cabinets; evaluation on a labelled photo set.
 
-## Academic information
-| Field | Value |
-|---|---|
-| Project title | MediScan AI |
-| Student name | _TBD_ |
-| Registration / roll no. | _TBD_ |
-| Programme / course | _TBD_ |
-| Supervisor | _TBD_ |
-| Institution | _TBD_ |
-| Submission date | _TBD_ |
-
-## License
-MIT — see [LICENSE](LICENSE).
